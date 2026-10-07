@@ -1,0 +1,11 @@
+# Archivos de compilacion de NetBeans
+build/
+dist/
+nbproject/private/
+
+# Archivo de configuracion sensible (para la futura API de Gemini)
+src/conf/config.properties
+src/java/config.properties
+
+# Clases compiladas
+*.class
